@@ -18,7 +18,7 @@ describe('Funcionalidade Pagina de produtos', () => {
 
     });
 
-    it.only('Deve adcionar um produto ao carrinho', () => {
+    it('Deve adcionar um produto ao carrinho', () => {
         var quantidade = 3
 
         cy.get('.product-block')
@@ -32,5 +32,8 @@ describe('Funcionalidade Pagina de produtos', () => {
         cy.get('.woocommerce-message').should('contain', quantidade + ' × “Caesar Warm-Up Pant” foram adicionados no seu carrinho.')
     });
 
+    it('Deve adcionar produtos ao carrinho com Comandos Customizados', () => {
+        cy.addProdutos('Beaumont Summit Kit', 'XS' , 'Red', 2)
+    });
 
 });
