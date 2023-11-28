@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Ryusca",
+        "sobrenome": "Santos",
+        "empressa": "EBAC",
+        "pais": "Brasil",
+        "rua": "Av. Caetano Alves",
+        "numero": " 442",
+        "cidade": "sao paulo",
+        "estado": "sao paulo",
+        "CEP": "39871-290",
+        "telefone": "11086378205",
+        "email": "teste_aluno@teste.com"
+    },
+    {
+        "nome": "Rysquinho",
+        "sobrenome": "Santos",
+        "empressa": "EBAC",
+        "pais": "Brasil",
+        "rua": "Av. Caetano Alves",
+        "numero": " 442",
+        "cidade": "sao paulo",
+        "estado": "sao paulo",
+        "CEP": "39871-290",
+        "telefone": "11086378205",
+        "email": "teste_aluno@teste.com"
+    },
+    {
+        "nome": "Rysada",
+        "sobrenome": "Santos",
+        "empressa": "EBAC",
+        "pais": "Brasil",
+        "rua": "Av. Caetano Alves",
+        "numero": " 442",
+        "cidade": "sao paulo",
+        "estado": "sao paulo",
+        "CEP": "39871-290",
+        "telefone": "11086378205",
+        "email": "teste_aluno@teste.com"
+    }
+]
